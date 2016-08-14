@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.exe
+c:\users\asus\documents\visual studio 2010\Projects\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.pdb
+c:\users\asus\documents\visual studio 2010\Projects\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班第四天.exe
+c:\users\asus\documents\visual studio 2010\Projects\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班第四天.pdb
+G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班第四天.exe
+G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班第四天.pdb
+G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.exe
+G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.pdb
