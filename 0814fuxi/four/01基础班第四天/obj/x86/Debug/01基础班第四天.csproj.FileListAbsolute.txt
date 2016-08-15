@@ -6,3 +6,7 @@ G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班�
 G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\obj\x86\Debug\01基础班第四天.pdb
 G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.exe
 G:\01netxuexi\netjichu\0814fuxi\01基础班第四天\bin\Debug\01基础班第四天.pdb
+D:\netproject\netjichu\0814fuxi\four\01基础班第四天\obj\x86\Debug\01基础班第四天.exe
+D:\netproject\netjichu\0814fuxi\four\01基础班第四天\obj\x86\Debug\01基础班第四天.pdb
+D:\netproject\netjichu\0814fuxi\four\01基础班第四天\bin\Debug\01基础班第四天.exe
+D:\netproject\netjichu\0814fuxi\four\01基础班第四天\bin\Debug\01基础班第四天.pdb
