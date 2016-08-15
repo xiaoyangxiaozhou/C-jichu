@@ -1,0 +1,4 @@
+G:\01netxuexi\netjichu\0814fuxi\five\05day\05dayfuxi\bin\Debug\05dayfuxi.exe
+G:\01netxuexi\netjichu\0814fuxi\five\05day\05dayfuxi\bin\Debug\05dayfuxi.pdb
+G:\01netxuexi\netjichu\0814fuxi\five\05day\05dayfuxi\obj\x86\Debug\05dayfuxi.exe
+G:\01netxuexi\netjichu\0814fuxi\five\05day\05dayfuxi\obj\x86\Debug\05dayfuxi.pdb
