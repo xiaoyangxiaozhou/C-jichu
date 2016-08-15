@@ -1,0 +1,4 @@
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\04基础班第四天\bin\Debug\04基础班第四天.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\04基础班第四天\bin\Debug\04基础班第四天.pdb
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\04基础班第四天\obj\x86\Debug\04基础班第四天.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\04基础班第四天\obj\x86\Debug\04基础班第四天.pdb

@@ -1,0 +1,5 @@
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\03基础班第三天\bin\Debug\03基础班第三天.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\03基础班第三天\bin\Debug\03基础班第三天.pdb
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\03基础班第三天\obj\x86\Debug\03基础班第三天.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\03基础班第三天\obj\x86\Debug\03基础班第三天.pdb
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\03基础班第三天\obj\x86\Debug\03基础班第三天.csprojResolveAssemblyReference.cache

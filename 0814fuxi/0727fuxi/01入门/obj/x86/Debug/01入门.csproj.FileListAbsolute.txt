@@ -1,0 +1,4 @@
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\01入门\bin\Debug\01入门.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\01入门\bin\Debug\01入门.pdb
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\01入门\obj\x86\Debug\01入门.exe
+D:\07-个人工作事务周雅琴\C#project\0727fuxi\01入门\obj\x86\Debug\01入门.pdb
