@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05dayfuxi", "05dayfuxi\05dayfuxi.csproj", "{BEA19AFE-B0CA-4E72-A776-2BBB8559CD5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leixingzhuanhuan", "leixingzhuanhuan\leixingzhuanhuan.csproj", "{4F6940EF-5811-48F5-9C7E-FE9971EABDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "continue", "continue\continue.csproj", "{1C4C46DC-24D8-41CC-B1A7-C544A2528061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{BEA19AFE-B0CA-4E72-A776-2BBB8559CD5F}.Debug|x86.Build.0 = Debug|x86
 		{BEA19AFE-B0CA-4E72-A776-2BBB8559CD5F}.Release|x86.ActiveCfg = Release|x86
 		{BEA19AFE-B0CA-4E72-A776-2BBB8559CD5F}.Release|x86.Build.0 = Release|x86
+		{4F6940EF-5811-48F5-9C7E-FE9971EABDD7}.Debug|x86.ActiveCfg = Debug|x86
+		{4F6940EF-5811-48F5-9C7E-FE9971EABDD7}.Debug|x86.Build.0 = Debug|x86
+		{4F6940EF-5811-48F5-9C7E-FE9971EABDD7}.Release|x86.ActiveCfg = Release|x86
+		{4F6940EF-5811-48F5-9C7E-FE9971EABDD7}.Release|x86.Build.0 = Release|x86
+		{1C4C46DC-24D8-41CC-B1A7-C544A2528061}.Debug|x86.ActiveCfg = Debug|x86
+		{1C4C46DC-24D8-41CC-B1A7-C544A2528061}.Debug|x86.Build.0 = Debug|x86
+		{1C4C46DC-24D8-41CC-B1A7-C544A2528061}.Release|x86.ActiveCfg = Release|x86
+		{1C4C46DC-24D8-41CC-B1A7-C544A2528061}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

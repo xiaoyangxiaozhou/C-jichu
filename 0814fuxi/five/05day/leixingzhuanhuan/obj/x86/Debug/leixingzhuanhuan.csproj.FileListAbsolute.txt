@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\five\05day\leixingzhuanhuan\bin\Debug\leixingzhuanhuan.exe
+D:\netproject\netjichu\0814fuxi\five\05day\leixingzhuanhuan\bin\Debug\leixingzhuanhuan.pdb
+D:\netproject\netjichu\0814fuxi\five\05day\leixingzhuanhuan\obj\x86\Debug\leixingzhuanhuan.exe
+D:\netproject\netjichu\0814fuxi\five\05day\leixingzhuanhuan\obj\x86\Debug\leixingzhuanhuan.pdb
