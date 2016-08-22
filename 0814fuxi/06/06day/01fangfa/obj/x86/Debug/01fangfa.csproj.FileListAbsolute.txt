@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\06\06day\01fangfa\bin\Debug\01fangfa.exe
+D:\netproject\netjichu\0814fuxi\06\06day\01fangfa\bin\Debug\01fangfa.pdb
+D:\netproject\netjichu\0814fuxi\06\06day\01fangfa\obj\x86\Debug\01fangfa.exe
+D:\netproject\netjichu\0814fuxi\06\06day\01fangfa\obj\x86\Debug\01fangfa.pdb
