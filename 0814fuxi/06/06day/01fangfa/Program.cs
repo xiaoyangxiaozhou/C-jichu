@@ -5,48 +5,48 @@ using System.Text;
 
 namespace _01fangfa
 {
-   public enum Gender
-   {
-        男,
-        女
+   //public enum Gender
+   //{
+   //     男,
+   //     女
      
-   }
-   public enum Sesons
-   { 
-       春,
-       夏,
-       秋,
-       冬
+   //}
+   //public enum Sesons
+   //{ 
+   //    春,
+   //    夏,
+   //    秋,
+   //    冬
    
-   }
-   public enum QQState
-   { 
-        OnLine=1,  //0
-        OffLine, //1
-        Leave,
-        Busy,
-        QMe
+   //}
+   //public enum QQState
+   //{ 
+   //     OnLine=1,  //0
+   //     OffLine, //1
+   //     Leave,
+   //     Busy,
+   //     QMe
    
    
-   }
+   //}
 
 
-   public struct Person
-   {
-      public string _name;
-      public int _age;
-      public Gender _gengder;
+   //public struct Person
+   //{
+   //   public string _name;
+   //   public int _age;
+   //   public Gender _gengder;
    
-   }
+   //}
 
-   public struct MyColor
-   {
-       public int _red;
-       public int _green;
-       public int _blue;
+   //public struct MyColor
+   //{
+   //    public int _red;
+   //    public int _green;
+   //    public int _blue;
 
    
-   }
+   //}
     class Program
     {
         static void Main(string[] args)
