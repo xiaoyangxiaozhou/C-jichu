@@ -1,0 +1,4 @@
+G:\01netxuexi\netjichu\0814fuxi\07\07day\01方法\bin\Debug\01方法.exe
+G:\01netxuexi\netjichu\0814fuxi\07\07day\01方法\bin\Debug\01方法.pdb
+G:\01netxuexi\netjichu\0814fuxi\07\07day\01方法\obj\x86\Debug\01方法.exe
+G:\01netxuexi\netjichu\0814fuxi\07\07day\01方法\obj\x86\Debug\01方法.pdb

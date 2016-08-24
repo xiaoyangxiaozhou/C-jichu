@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01方法", "01方法\01方法.csproj", "{3FE227BA-7077-4E55-B7B0-4ABCFABA5FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02方法练习", "02方法练习\02方法练习.csproj", "{ECC9C220-C5D5-4E1D-A7B2-3EA7D56AFC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE227BA-7077-4E55-B7B0-4ABCFABA5FD4}.Debug|x86.ActiveCfg = Debug|x86
+		{3FE227BA-7077-4E55-B7B0-4ABCFABA5FD4}.Debug|x86.Build.0 = Debug|x86
+		{3FE227BA-7077-4E55-B7B0-4ABCFABA5FD4}.Release|x86.ActiveCfg = Release|x86
+		{3FE227BA-7077-4E55-B7B0-4ABCFABA5FD4}.Release|x86.Build.0 = Release|x86
+		{ECC9C220-C5D5-4E1D-A7B2-3EA7D56AFC4B}.Debug|x86.ActiveCfg = Debug|x86
+		{ECC9C220-C5D5-4E1D-A7B2-3EA7D56AFC4B}.Debug|x86.Build.0 = Debug|x86
+		{ECC9C220-C5D5-4E1D-A7B2-3EA7D56AFC4B}.Release|x86.ActiveCfg = Release|x86
+		{ECC9C220-C5D5-4E1D-A7B2-3EA7D56AFC4B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
