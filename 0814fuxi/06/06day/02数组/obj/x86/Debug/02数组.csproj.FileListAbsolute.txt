@@ -2,3 +2,4 @@ D:\netproject\netjichu\0814fuxi\06\06day\02数组\bin\Debug\02数组.exe
 D:\netproject\netjichu\0814fuxi\06\06day\02数组\bin\Debug\02数组.pdb
 D:\netproject\netjichu\0814fuxi\06\06day\02数组\obj\x86\Debug\02数组.exe
 D:\netproject\netjichu\0814fuxi\06\06day\02数组\obj\x86\Debug\02数组.pdb
+D:\netproject\netjichu\0814fuxi\06\06day\02数组\obj\x86\Debug\02数组.csprojResolveAssemblyReference.cache
