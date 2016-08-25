@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\07\07day\04out参数\bin\Debug\04out参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\04out参数\bin\Debug\04out参数.pdb
+D:\netproject\netjichu\0814fuxi\07\07day\04out参数\obj\x86\Debug\04out参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\04out参数\obj\x86\Debug\04out参数.pdb

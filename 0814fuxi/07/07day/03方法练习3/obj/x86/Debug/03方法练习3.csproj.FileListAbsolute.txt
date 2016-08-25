@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\07\07day\03方法练习3\bin\Debug\03方法练习3.exe
+D:\netproject\netjichu\0814fuxi\07\07day\03方法练习3\bin\Debug\03方法练习3.pdb
+D:\netproject\netjichu\0814fuxi\07\07day\03方法练习3\obj\x86\Debug\03方法练习3.exe
+D:\netproject\netjichu\0814fuxi\07\07day\03方法练习3\obj\x86\Debug\03方法练习3.pdb

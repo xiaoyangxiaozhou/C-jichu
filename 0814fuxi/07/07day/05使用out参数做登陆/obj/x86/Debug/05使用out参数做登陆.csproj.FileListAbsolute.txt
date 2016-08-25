@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\07\07day\05使用out参数做登陆\bin\Debug\05使用out参数做登陆.exe
+D:\netproject\netjichu\0814fuxi\07\07day\05使用out参数做登陆\bin\Debug\05使用out参数做登陆.pdb
+D:\netproject\netjichu\0814fuxi\07\07day\05使用out参数做登陆\obj\x86\Debug\05使用out参数做登陆.exe
+D:\netproject\netjichu\0814fuxi\07\07day\05使用out参数做登陆\obj\x86\Debug\05使用out参数做登陆.pdb

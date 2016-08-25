@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\07\07day\07paramas参数\bin\Debug\07paramas参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\07paramas参数\bin\Debug\07paramas参数.pdb
+D:\netproject\netjichu\0814fuxi\07\07day\07paramas参数\obj\x86\Debug\07paramas参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\07paramas参数\obj\x86\Debug\07paramas参数.pdb

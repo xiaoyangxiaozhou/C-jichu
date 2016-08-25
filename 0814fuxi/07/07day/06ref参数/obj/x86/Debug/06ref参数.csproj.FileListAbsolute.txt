@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\07\07day\06ref参数\bin\Debug\06ref参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\06ref参数\bin\Debug\06ref参数.pdb
+D:\netproject\netjichu\0814fuxi\07\07day\06ref参数\obj\x86\Debug\06ref参数.exe
+D:\netproject\netjichu\0814fuxi\07\07day\06ref参数\obj\x86\Debug\06ref参数.pdb
