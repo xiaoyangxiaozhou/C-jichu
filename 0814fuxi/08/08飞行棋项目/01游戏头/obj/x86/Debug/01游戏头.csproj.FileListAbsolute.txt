@@ -1,0 +1,4 @@
+G:\01netxuexi\netjichu\0814fuxi\08\08飞行棋项目\01游戏头\bin\Debug\01游戏头.exe
+G:\01netxuexi\netjichu\0814fuxi\08\08飞行棋项目\01游戏头\bin\Debug\01游戏头.pdb
+G:\01netxuexi\netjichu\0814fuxi\08\08飞行棋项目\01游戏头\obj\x86\Debug\01游戏头.exe
+G:\01netxuexi\netjichu\0814fuxi\08\08飞行棋项目\01游戏头\obj\x86\Debug\01游戏头.pdb
