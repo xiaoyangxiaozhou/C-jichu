@@ -2,3 +2,7 @@ G:\01netxuexi\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\bin
 G:\01netxuexi\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\bin\Debug\01类的基本语法.pdb
 G:\01netxuexi\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\obj\x86\Debug\01类的基本语法.exe
 G:\01netxuexi\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\obj\x86\Debug\01类的基本语法.pdb
+D:\netproject\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\obj\x86\Debug\01类的基本语法.exe
+D:\netproject\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\obj\x86\Debug\01类的基本语法.pdb
+D:\netproject\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\bin\Debug\01类的基本语法.exe
+D:\netproject\netjichu\0814fuxi\09\09面向对象初级\01类的基本语法\bin\Debug\01类的基本语法.pdb

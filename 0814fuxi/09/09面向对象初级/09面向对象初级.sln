@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01类的基本语法", "01类的基本语法\01类的基本语法.csproj", "{58CB5C64-FEF3-4637-B848-259F305E4356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02静态和非静态的区别", "02静态和非静态的区别\02静态和非静态的区别.csproj", "{E0E07ECB-6612-4F7E-AC45-164C3E4A14B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03面向对象练习", "03面向对象练习\03面向对象练习.csproj", "{B3D87F52-859C-4BB2-BB20-1A295481A9E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{58CB5C64-FEF3-4637-B848-259F305E4356}.Debug|x86.Build.0 = Debug|x86
 		{58CB5C64-FEF3-4637-B848-259F305E4356}.Release|x86.ActiveCfg = Release|x86
 		{58CB5C64-FEF3-4637-B848-259F305E4356}.Release|x86.Build.0 = Release|x86
+		{E0E07ECB-6612-4F7E-AC45-164C3E4A14B8}.Debug|x86.ActiveCfg = Debug|x86
+		{E0E07ECB-6612-4F7E-AC45-164C3E4A14B8}.Debug|x86.Build.0 = Debug|x86
+		{E0E07ECB-6612-4F7E-AC45-164C3E4A14B8}.Release|x86.ActiveCfg = Release|x86
+		{E0E07ECB-6612-4F7E-AC45-164C3E4A14B8}.Release|x86.Build.0 = Release|x86
+		{B3D87F52-859C-4BB2-BB20-1A295481A9E0}.Debug|x86.ActiveCfg = Debug|x86
+		{B3D87F52-859C-4BB2-BB20-1A295481A9E0}.Debug|x86.Build.0 = Debug|x86
+		{B3D87F52-859C-4BB2-BB20-1A295481A9E0}.Release|x86.ActiveCfg = Release|x86
+		{B3D87F52-859C-4BB2-BB20-1A295481A9E0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
