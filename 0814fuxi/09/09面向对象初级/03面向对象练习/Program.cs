@@ -9,7 +9,10 @@ namespace _03面向对象练习
     {
         static void Main(string[] args)
         {
-            Student s = new Student();
+            //Student s = new Student("张三", 18);
+            //s.SayHello();
+            //s.ShowScore();
+            //Console.ReadKey();
             
             //Student zsStudent = new Student("张三",18,'中',100,100,100);
             //zsStudent.Name = "张三";
