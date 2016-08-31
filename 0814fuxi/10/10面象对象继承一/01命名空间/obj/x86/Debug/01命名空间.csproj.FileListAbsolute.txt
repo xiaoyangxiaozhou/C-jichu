@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\01命名空间\bin\Debug\01命名空间.exe
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\01命名空间\bin\Debug\01命名空间.pdb
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\01命名空间\obj\x86\Debug\01命名空间.exe
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\01命名空间\obj\x86\Debug\01命名空间.pdb
