@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\04字符串方法二\bin\Debug\04字符串方法二.exe
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\04字符串方法二\bin\Debug\04字符串方法二.pdb
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\04字符串方法二\obj\x86\Debug\04字符串方法二.exe
+D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\04字符串方法二\obj\x86\Debug\04字符串方法二.pdb

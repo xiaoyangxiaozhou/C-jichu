@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01命名空间", "01命名�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02字符串的方法一", "02字符串的方法一\02字符串的方法一.csproj", "{6EA6FB53-AC91-4F2B-98AD-70EA09E5B5CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03字符串方法练习", "03字符串方法练习\03字符串方法练习.csproj", "{F22514B9-FB1A-454C-8D82-83F652A1126E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04字符串方法二", "04字符串方法二\04字符串方法二.csproj", "{9768EE24-3B66-49E5-A616-53209C4D13E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05字符串方法练习", "05字符串方法练习\05字符串方法练习.csproj", "{6DA23A10-6B59-4215-96D5-BB36AE791CFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +25,18 @@ Global
 		{6EA6FB53-AC91-4F2B-98AD-70EA09E5B5CD}.Debug|x86.Build.0 = Debug|x86
 		{6EA6FB53-AC91-4F2B-98AD-70EA09E5B5CD}.Release|x86.ActiveCfg = Release|x86
 		{6EA6FB53-AC91-4F2B-98AD-70EA09E5B5CD}.Release|x86.Build.0 = Release|x86
+		{F22514B9-FB1A-454C-8D82-83F652A1126E}.Debug|x86.ActiveCfg = Debug|x86
+		{F22514B9-FB1A-454C-8D82-83F652A1126E}.Debug|x86.Build.0 = Debug|x86
+		{F22514B9-FB1A-454C-8D82-83F652A1126E}.Release|x86.ActiveCfg = Release|x86
+		{F22514B9-FB1A-454C-8D82-83F652A1126E}.Release|x86.Build.0 = Release|x86
+		{9768EE24-3B66-49E5-A616-53209C4D13E8}.Debug|x86.ActiveCfg = Debug|x86
+		{9768EE24-3B66-49E5-A616-53209C4D13E8}.Debug|x86.Build.0 = Debug|x86
+		{9768EE24-3B66-49E5-A616-53209C4D13E8}.Release|x86.ActiveCfg = Release|x86
+		{9768EE24-3B66-49E5-A616-53209C4D13E8}.Release|x86.Build.0 = Release|x86
+		{6DA23A10-6B59-4215-96D5-BB36AE791CFA}.Debug|x86.ActiveCfg = Debug|x86
+		{6DA23A10-6B59-4215-96D5-BB36AE791CFA}.Debug|x86.Build.0 = Debug|x86
+		{6DA23A10-6B59-4215-96D5-BB36AE791CFA}.Release|x86.ActiveCfg = Release|x86
+		{6DA23A10-6B59-4215-96D5-BB36AE791CFA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
