@@ -2,3 +2,5 @@ D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法�
 D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法一\bin\Debug\02字符串的方法一.pdb
 D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法一\obj\x86\Debug\02字符串的方法一.exe
 D:\netproject\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法一\obj\x86\Debug\02字符串的方法一.pdb
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法一\obj\x86\Debug\02字符串的方法一.exe
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\02字符串的方法一\obj\x86\Debug\02字符串的方法一.pdb

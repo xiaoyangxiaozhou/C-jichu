@@ -1,0 +1,4 @@
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\06继承\bin\Debug\06继承.exe
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\06继承\bin\Debug\06继承.pdb
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\06继承\obj\x86\Debug\06继承.exe
+G:\01netxuexi\netjichu\0814fuxi\10\10面象对象继承一\06继承\obj\x86\Debug\06继承.pdb
