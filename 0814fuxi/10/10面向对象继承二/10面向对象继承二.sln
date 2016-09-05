@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01里氏转换", "01里氏转换\01里氏转换.csproj", "{67056663-97D3-4A54-B4BD-3907E4E9024C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02protected访问修饰符", "02protected访问修饰符\02protected访问修饰符.csproj", "{AFAFBD3E-40D6-4909-8FBE-33F1454EB621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ArrayList集合", "03ArrayList集合\03ArrayList集合.csproj", "{64DA0F9F-6DBF-4696-A975-F6703B20B812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67056663-97D3-4A54-B4BD-3907E4E9024C}.Debug|x86.ActiveCfg = Debug|x86
+		{67056663-97D3-4A54-B4BD-3907E4E9024C}.Debug|x86.Build.0 = Debug|x86
+		{67056663-97D3-4A54-B4BD-3907E4E9024C}.Release|x86.ActiveCfg = Release|x86
+		{67056663-97D3-4A54-B4BD-3907E4E9024C}.Release|x86.Build.0 = Release|x86
+		{AFAFBD3E-40D6-4909-8FBE-33F1454EB621}.Debug|x86.ActiveCfg = Debug|x86
+		{AFAFBD3E-40D6-4909-8FBE-33F1454EB621}.Debug|x86.Build.0 = Debug|x86
+		{AFAFBD3E-40D6-4909-8FBE-33F1454EB621}.Release|x86.ActiveCfg = Release|x86
+		{AFAFBD3E-40D6-4909-8FBE-33F1454EB621}.Release|x86.Build.0 = Release|x86
+		{64DA0F9F-6DBF-4696-A975-F6703B20B812}.Debug|x86.ActiveCfg = Debug|x86
+		{64DA0F9F-6DBF-4696-A975-F6703B20B812}.Debug|x86.Build.0 = Debug|x86
+		{64DA0F9F-6DBF-4696-A975-F6703B20B812}.Release|x86.ActiveCfg = Release|x86
+		{64DA0F9F-6DBF-4696-A975-F6703B20B812}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
