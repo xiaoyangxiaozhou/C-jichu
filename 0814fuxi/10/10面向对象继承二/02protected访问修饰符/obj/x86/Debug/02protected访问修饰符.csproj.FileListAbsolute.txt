@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\02protected访问修饰符\bin\Debug\02protected访问修饰符.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\02protected访问修饰符\bin\Debug\02protected访问修饰符.pdb
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\02protected访问修饰符\obj\x86\Debug\02protected访问修饰符.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\02protected访问修饰符\obj\x86\Debug\02protected访问修饰符.pdb
