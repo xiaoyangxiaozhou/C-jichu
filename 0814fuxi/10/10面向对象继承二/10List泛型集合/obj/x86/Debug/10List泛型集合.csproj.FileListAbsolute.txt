@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\10List泛型集合\bin\Debug\10List泛型集合.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\10List泛型集合\bin\Debug\10List泛型集合.pdb
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\10List泛型集合\obj\x86\Debug\10List泛型集合.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\10List泛型集合\obj\x86\Debug\10List泛型集合.pdb

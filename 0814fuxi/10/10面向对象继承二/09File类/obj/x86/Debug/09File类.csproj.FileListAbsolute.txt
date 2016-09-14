@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\09File类\bin\Debug\09File类.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\09File类\bin\Debug\09File类.pdb
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\09File类\obj\x86\Debug\09File类.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\09File类\obj\x86\Debug\09File类.pdb

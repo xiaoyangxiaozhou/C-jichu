@@ -28,19 +28,19 @@ namespace _04ArrayList的各种方法
             //list.InsertRange(0,new string[]{"张三","李四"});//在指定的位置插入一个集合
             //bool b =list.Contains(1);//判断是否包含某个指定的元素
             //Console.WriteLine(b);
-            if (!list.Contains("颜世伟"))
-            {
-                list.Add("颜世伟");
-            }
-            else
-            {
-                Console.WriteLine("已经有这个屌丝了");
-            }
-            for (int i = 0; i < list.Count; i++)
-            {
-                Console.WriteLine(list[i]);
-            }
-            Console.ReadKey();
+            //if (!list.Contains("颜世伟"))
+            //{
+            //    list.Add("颜世伟");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("已经有这个屌丝了");
+            //}
+            //for (int i = 0; i < list.Count; i++)
+            //{
+            //    Console.WriteLine(list[i]);
+            //}
+            //Console.ReadKey();
 
         }
     }

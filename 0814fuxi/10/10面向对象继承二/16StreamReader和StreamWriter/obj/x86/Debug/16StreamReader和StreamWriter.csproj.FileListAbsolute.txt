@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\16StreamReader和StreamWriter\bin\Debug\16StreamReader和StreamWriter.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\16StreamReader和StreamWriter\bin\Debug\16StreamReader和StreamWriter.pdb
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\16StreamReader和StreamWriter\obj\x86\Debug\16StreamReader和StreamWriter.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\16StreamReader和StreamWriter\obj\x86\Debug\16StreamReader和StreamWriter.pdb

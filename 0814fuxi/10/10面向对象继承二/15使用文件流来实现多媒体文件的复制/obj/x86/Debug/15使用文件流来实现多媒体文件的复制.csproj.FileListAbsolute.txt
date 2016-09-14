@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\15使用文件流来实现多媒体文件的复制\bin\Debug\15使用文件流来实现多媒体文件的复制.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\15使用文件流来实现多媒体文件的复制\bin\Debug\15使用文件流来实现多媒体文件的复制.pdb
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\15使用文件流来实现多媒体文件的复制\obj\x86\Debug\15使用文件流来实现多媒体文件的复制.exe
+D:\netproject\netjichu\0814fuxi\10\10面向对象继承二\15使用文件流来实现多媒体文件的复制\obj\x86\Debug\15使用文件流来实现多媒体文件的复制.pdb
