@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01复习", "01复习\01复习.csproj", "{42AB157D-A7A9-4122-A75B-FBA8F0482730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02值传递和引用传递", "02值传递和引用传递\02值传递和引用传递.csproj", "{28288E73-7DA6-4C41-AF04-A4EE364D8CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03接口", "03接口\03接口.csproj", "{AF3E2F2D-A373-4E15-A6E0-43D509C714DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04接口的练习", "04接口的练习\04接口的练习.csproj", "{EB2A32BB-A340-4B50-A69B-033B3320A0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05超市收银系统", "05超市收银系统\05超市收银系统.csproj", "{BBAC928C-6A01-4F46-A25D-F819D6106597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42AB157D-A7A9-4122-A75B-FBA8F0482730}.Debug|x86.ActiveCfg = Debug|x86
+		{42AB157D-A7A9-4122-A75B-FBA8F0482730}.Debug|x86.Build.0 = Debug|x86
+		{42AB157D-A7A9-4122-A75B-FBA8F0482730}.Release|x86.ActiveCfg = Release|x86
+		{42AB157D-A7A9-4122-A75B-FBA8F0482730}.Release|x86.Build.0 = Release|x86
+		{28288E73-7DA6-4C41-AF04-A4EE364D8CA5}.Debug|x86.ActiveCfg = Debug|x86
+		{28288E73-7DA6-4C41-AF04-A4EE364D8CA5}.Debug|x86.Build.0 = Debug|x86
+		{28288E73-7DA6-4C41-AF04-A4EE364D8CA5}.Release|x86.ActiveCfg = Release|x86
+		{28288E73-7DA6-4C41-AF04-A4EE364D8CA5}.Release|x86.Build.0 = Release|x86
+		{AF3E2F2D-A373-4E15-A6E0-43D509C714DF}.Debug|x86.ActiveCfg = Debug|x86
+		{AF3E2F2D-A373-4E15-A6E0-43D509C714DF}.Debug|x86.Build.0 = Debug|x86
+		{AF3E2F2D-A373-4E15-A6E0-43D509C714DF}.Release|x86.ActiveCfg = Release|x86
+		{AF3E2F2D-A373-4E15-A6E0-43D509C714DF}.Release|x86.Build.0 = Release|x86
+		{EB2A32BB-A340-4B50-A69B-033B3320A0DC}.Debug|x86.ActiveCfg = Debug|x86
+		{EB2A32BB-A340-4B50-A69B-033B3320A0DC}.Debug|x86.Build.0 = Debug|x86
+		{EB2A32BB-A340-4B50-A69B-033B3320A0DC}.Release|x86.ActiveCfg = Release|x86
+		{EB2A32BB-A340-4B50-A69B-033B3320A0DC}.Release|x86.Build.0 = Release|x86
+		{BBAC928C-6A01-4F46-A25D-F819D6106597}.Debug|x86.ActiveCfg = Debug|x86
+		{BBAC928C-6A01-4F46-A25D-F819D6106597}.Debug|x86.Build.0 = Debug|x86
+		{BBAC928C-6A01-4F46-A25D-F819D6106597}.Release|x86.ActiveCfg = Release|x86
+		{BBAC928C-6A01-4F46-A25D-F819D6106597}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
