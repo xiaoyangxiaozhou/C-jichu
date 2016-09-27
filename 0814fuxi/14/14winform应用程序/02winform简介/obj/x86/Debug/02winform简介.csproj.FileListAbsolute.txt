@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\02winform简介\bin\Debug\02winform简介.exe
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\02winform简介\bin\Debug\02winform简介.pdb
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\02winform简介\obj\x86\Debug\02winform简介.exe
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\02winform简介\obj\x86\Debug\02winform简介.pdb

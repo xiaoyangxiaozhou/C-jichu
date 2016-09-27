@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01MD5加密", "01MD5加密\01MD5加密.csproj", "{59BFC0B0-9625-45C3-A732-FE737965F776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02winform简介", "02winform简介\02winform简介.csproj", "{47F22525-C46D-46B7-997C-2C46CEB7DE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03练习2", "03练习2\03练习2.csproj", "{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Debug|x86.ActiveCfg = Debug|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Debug|x86.Build.0 = Debug|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Release|Any CPU.ActiveCfg = Release|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Release|Mixed Platforms.Build.0 = Release|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Release|x86.ActiveCfg = Release|x86
+		{59BFC0B0-9625-45C3-A732-FE737965F776}.Release|x86.Build.0 = Release|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Debug|x86.ActiveCfg = Debug|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Debug|x86.Build.0 = Debug|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Release|Any CPU.ActiveCfg = Release|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Release|Mixed Platforms.Build.0 = Release|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Release|x86.ActiveCfg = Release|x86
+		{47F22525-C46D-46B7-997C-2C46CEB7DE18}.Release|x86.Build.0 = Release|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Debug|x86.ActiveCfg = Debug|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Debug|x86.Build.0 = Debug|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|Any CPU.ActiveCfg = Release|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|x86.ActiveCfg = Release|x86
+		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
