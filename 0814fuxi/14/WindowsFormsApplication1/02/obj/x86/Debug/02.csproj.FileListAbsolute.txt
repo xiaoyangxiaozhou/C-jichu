@@ -1,0 +1,4 @@
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\02\bin\Debug\02.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\02\bin\Debug\02.pdb
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\02\obj\x86\Debug\02.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\02\obj\x86\Debug\02.pdb

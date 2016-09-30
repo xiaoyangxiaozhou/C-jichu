@@ -1,0 +1,7 @@
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\bin\Debug\03.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\bin\Debug\03.pdb
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\obj\x86\Debug\_03.Form1.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\obj\x86\Debug\_03.Properties.Resources.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\obj\x86\Debug\03.csproj.GenerateResource.Cache
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\obj\x86\Debug\03.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\03\obj\x86\Debug\03.pdb

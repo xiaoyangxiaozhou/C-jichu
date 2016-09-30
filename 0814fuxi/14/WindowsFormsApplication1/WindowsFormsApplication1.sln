@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{B31E6A89-2BB7-4D4B-A3D2-FAB299EA9F9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02", "02\02.csproj", "{43E9B73A-34F3-4660-A5AA-CF458337D1ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03", "03\03.csproj", "{A11CBDAC-A20C-4955-BCE4-4982E91E8F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04TextBox", "04TextBox\04TextBox.csproj", "{AF708D1D-BD54-4498-BFCB-A0E9BEB002FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Timer", "05Timer\05Timer.csproj", "{FE349528-4F82-4BC1-A9EE-E3A2E7F7F8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Timer", "06Timer\06Timer.csproj", "{CF21088A-1445-4885-A03C-51A4EFF1006A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +23,26 @@ Global
 		{B31E6A89-2BB7-4D4B-A3D2-FAB299EA9F9F}.Debug|x86.Build.0 = Debug|x86
 		{B31E6A89-2BB7-4D4B-A3D2-FAB299EA9F9F}.Release|x86.ActiveCfg = Release|x86
 		{B31E6A89-2BB7-4D4B-A3D2-FAB299EA9F9F}.Release|x86.Build.0 = Release|x86
+		{43E9B73A-34F3-4660-A5AA-CF458337D1ED}.Debug|x86.ActiveCfg = Debug|x86
+		{43E9B73A-34F3-4660-A5AA-CF458337D1ED}.Debug|x86.Build.0 = Debug|x86
+		{43E9B73A-34F3-4660-A5AA-CF458337D1ED}.Release|x86.ActiveCfg = Release|x86
+		{43E9B73A-34F3-4660-A5AA-CF458337D1ED}.Release|x86.Build.0 = Release|x86
+		{A11CBDAC-A20C-4955-BCE4-4982E91E8F4C}.Debug|x86.ActiveCfg = Debug|x86
+		{A11CBDAC-A20C-4955-BCE4-4982E91E8F4C}.Debug|x86.Build.0 = Debug|x86
+		{A11CBDAC-A20C-4955-BCE4-4982E91E8F4C}.Release|x86.ActiveCfg = Release|x86
+		{A11CBDAC-A20C-4955-BCE4-4982E91E8F4C}.Release|x86.Build.0 = Release|x86
+		{AF708D1D-BD54-4498-BFCB-A0E9BEB002FF}.Debug|x86.ActiveCfg = Debug|x86
+		{AF708D1D-BD54-4498-BFCB-A0E9BEB002FF}.Debug|x86.Build.0 = Debug|x86
+		{AF708D1D-BD54-4498-BFCB-A0E9BEB002FF}.Release|x86.ActiveCfg = Release|x86
+		{AF708D1D-BD54-4498-BFCB-A0E9BEB002FF}.Release|x86.Build.0 = Release|x86
+		{FE349528-4F82-4BC1-A9EE-E3A2E7F7F8E9}.Debug|x86.ActiveCfg = Debug|x86
+		{FE349528-4F82-4BC1-A9EE-E3A2E7F7F8E9}.Debug|x86.Build.0 = Debug|x86
+		{FE349528-4F82-4BC1-A9EE-E3A2E7F7F8E9}.Release|x86.ActiveCfg = Release|x86
+		{FE349528-4F82-4BC1-A9EE-E3A2E7F7F8E9}.Release|x86.Build.0 = Release|x86
+		{CF21088A-1445-4885-A03C-51A4EFF1006A}.Debug|x86.ActiveCfg = Debug|x86
+		{CF21088A-1445-4885-A03C-51A4EFF1006A}.Debug|x86.Build.0 = Debug|x86
+		{CF21088A-1445-4885-A03C-51A4EFF1006A}.Release|x86.ActiveCfg = Release|x86
+		{CF21088A-1445-4885-A03C-51A4EFF1006A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

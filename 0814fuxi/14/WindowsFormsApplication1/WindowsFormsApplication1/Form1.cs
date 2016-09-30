@@ -36,7 +36,7 @@ namespace WindowsFormsApplication1
         }
 
         /// <summary>
-        /// 
+        /// 当加载窗体的时候，将窗体对象放到Test类中的静态字段中
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>

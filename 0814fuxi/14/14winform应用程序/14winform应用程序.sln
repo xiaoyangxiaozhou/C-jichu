@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02winform简介", "02winfor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03练习2", "03练习2\03练习2.csproj", "{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04复习", "04复习\04复习.csproj", "{34398FBA-0F60-4748-97B2-2BBB914CE044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|Mixed Platforms.Build.0 = Release|x86
 		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|x86.ActiveCfg = Release|x86
 		{2C886BAC-D99F-4C89-9A59-CEC592D9FFE9}.Release|x86.Build.0 = Release|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Debug|x86.ActiveCfg = Debug|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Debug|x86.Build.0 = Debug|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Release|Any CPU.ActiveCfg = Release|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Release|Mixed Platforms.Build.0 = Release|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Release|x86.ActiveCfg = Release|x86
+		{34398FBA-0F60-4748-97B2-2BBB914CE044}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

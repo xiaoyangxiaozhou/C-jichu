@@ -1,0 +1,7 @@
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\bin\Debug\04TextBox.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\bin\Debug\04TextBox.pdb
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\obj\x86\Debug\_04TextBox.Form1.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\obj\x86\Debug\_04TextBox.Properties.Resources.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\obj\x86\Debug\04TextBox.csproj.GenerateResource.Cache
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\obj\x86\Debug\04TextBox.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\04TextBox\obj\x86\Debug\04TextBox.pdb

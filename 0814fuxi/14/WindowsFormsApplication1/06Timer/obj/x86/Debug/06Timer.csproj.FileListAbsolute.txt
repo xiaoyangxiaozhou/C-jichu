@@ -1,0 +1,8 @@
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\bin\Debug\06Timer.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\bin\Debug\06Timer.pdb
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\_06Timer.Form1.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\_06Timer.Properties.Resources.resources
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\06Timer.csproj.GenerateResource.Cache
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\06Timer.exe
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\06Timer.pdb
+D:\netproject\netjichu\0814fuxi\14\WindowsFormsApplication1\06Timer\obj\x86\Debug\06Timer.csprojResolveAssemblyReference.cache

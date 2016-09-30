@@ -1,0 +1,5 @@
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\04复习\bin\Debug\04复习.exe
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\04复习\bin\Debug\04复习.pdb
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\04复习\obj\x86\Debug\04复习.exe
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\04复习\obj\x86\Debug\04复习.pdb
+D:\netproject\netjichu\0814fuxi\14\14winform应用程序\04复习\obj\x86\Debug\04复习.csprojResolveAssemblyReference.cache
